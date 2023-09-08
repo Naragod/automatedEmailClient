@@ -1,0 +1,10 @@
+node_modules/
+dist/
+config.json
+
+assets/
+email_templates/
+**/emails/sent/*
+**/emails/pending/*
+**/emails/undelivered/*
+
