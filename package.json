@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "dev": "npm run build; clear; node ./dist/main.js"
+    "dev": "npm run build; clear; node ./dist/main.js",
+    "format": "prettier --plugin-search-dir . --write ."
   },
   "keywords": [],
   "author": "",

@@ -14,10 +14,10 @@ lead to your account being blocked or labeled as a `spammer`. This is a free ema
 
 Make sure to have 2-factor-authentication enabled on your gmail account, then:
 
--   Login to your google account.
--   From the sidebar, click on security
--   Scroll down to Signing in with google
--   Click on App Passwords to Generate a new App Password
+- Login to your google account.
+- From the sidebar, click on security
+- Scroll down to Signing in with google
+- Click on App Passwords to Generate a new App Password
 
 To execute this program create a `config.json` file in the `/src` directory of the project. It should look like the following:
 

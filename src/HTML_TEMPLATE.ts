@@ -1,7 +1,7 @@
 // an email template that can be used with Nodemailer to send emails
 
-const HTML_TEMPLATE = (text:string) => {
-    return `
+const HTML_TEMPLATE = (text: string) => {
+  return `
       <!DOCTYPE html>
       <html>
         <head>
@@ -54,7 +54,6 @@ const HTML_TEMPLATE = (text:string) => {
         </body>
       </html>
     `;
-  }
-  
-  export default HTML_TEMPLATE;
-  
+};
+
+export default HTML_TEMPLATE;

@@ -1,16 +1,16 @@
 [
-    {
-        "to": "to@gmail.com",
-        "position": "some position",
-        "jobBoard": "the Canadian Job Bank website",
-        "from": "youremail@gmail.com",
-        "templateType": "generic"
-    },
-    {
-        "to": "to@gmail.com",
-        "position": "some position",
-        "jobBoard": "the Canadian Job Bank website",
-        "from": "youremail@gmail.com",
-        "templateType": "software"
-    }
+  {
+    "to": "to@gmail.com",
+    "position": "some position",
+    "jobBoard": "the Canadian Job Bank website",
+    "from": "youremail@gmail.com",
+    "templateType": "generic"
+  },
+  {
+    "to": "to@gmail.com",
+    "position": "some position",
+    "jobBoard": "the Canadian Job Bank website",
+    "from": "youremail@gmail.com",
+    "templateType": "software"
+  }
 ]
